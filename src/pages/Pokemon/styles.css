@@ -1,0 +1,36 @@
+.detalhes {
+    max-width: 700px;
+    margin: 20px auto 0;
+     padding: 20px;
+     background: #FFF;
+     border-radius: 5px;
+     border: 1px solid #ddd;
+}
+
+.detalhes h1{
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhes p{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhes h2{
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhes article .lista li{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
